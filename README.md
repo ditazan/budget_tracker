@@ -1,7 +1,8 @@
-# [Budget Tracker PWA](#title)
+# Budget Tracker PWA
+
+> [Heroku App]()
 
 ## Table of Contents
-> - [Title](#title)
 > - [Description](#description)
 > - [Resources](#resources)
 > - [Installation](#installation)
@@ -36,4 +37,4 @@ Budget Tracker is an application that allows for offline access and functionalit
 
 ### Dita Zanelli
 > [github](https://github.com/ditazan)
-> [portfolio]https://ditazan.github.io/webdev_portfolio/()
+> [portfolio](https://ditazan.github.io/webdev_portfolio/)
