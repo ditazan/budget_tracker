@@ -1,4 +1,4 @@
-#[Budget Tracker PWA](#title)
+# [Budget Tracker PWA](#title)
 
 ## Table of Contents
 > - [Title](#title)
